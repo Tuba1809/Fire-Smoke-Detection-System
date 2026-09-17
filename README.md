@@ -188,11 +188,9 @@ requirements.txt
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd YOUR-REPOSITORY
+git clone https://github.com/Tuba1809/Fire-Smoke-Detection-System
+cd Fire-Smoke-Detection-System
 ```
-
-Replace `YOUR-USERNAME` and `YOUR-REPOSITORY` with the actual GitHub repository details.
 
 ---
 
